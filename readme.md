@@ -1,5 +1,7 @@
 # I2C Device Scanner
 
+[![CodeFactor](https://www.codefactor.io/repository/github/1999azzar/arduino-i2c-scanner/badge)](https://www.codefactor.io/repository/github/1999azzar/arduino-i2c-scanner)
+
 This is a simple Arduino sketch that scans for I2C devices connected to your Arduino board. It uses the `Wire` library to communicate over the I2C bus and identifies the devices by their respective addresses.
 
 ## Prerequisites
